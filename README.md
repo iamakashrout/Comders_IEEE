@@ -10,6 +10,30 @@ This project is aimed at designing and implementing a cloud service that utilize
 - Using noise reduction methods such as bootstrapping, squashing, and modulus switching to achieve better asymptotic performance.
 - Providing secure access to the processed data to authorized parties.
 
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/sparsh44/Comders_IEEE.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Comders_IEEE/client
+```
+
+3. Install dependencies using npm:
+```bash
+npm install
+``` 
+
+4. Start the React development server:
+```bash
+npm run start
+``` 
+
 ## Key Features
 
 The following are the key features of the homomorphic encryption healthcare cloud service:
